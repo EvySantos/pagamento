@@ -8,5 +8,12 @@
             "email": "evellynsilva@hotmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "Pagamento\\": "controllers/" 
+        }
+    },
+    "require": {
+        "evellynsantos/pagamento": "1.1"
+    }
 }
