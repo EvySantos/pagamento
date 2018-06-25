@@ -14,6 +14,6 @@
         }
     },
     "require": {
-        "evellynsantos/pagamento": "1.1"
+        "evellynsantos/pagamento": "1.2"
     }
 }
