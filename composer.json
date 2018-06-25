@@ -1,0 +1,12 @@
+{
+    "name": "conta/pagamento",
+    "description": "Modulo de Pagamento",
+    "type": "module",
+    "authors": [
+        {
+            "name": "Evellyn",
+            "email": "evellynsilva@hotmail.com"
+        }
+    ],
+    "require": {}
+}
